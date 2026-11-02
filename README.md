@@ -10,3 +10,8 @@ I am also using
 * 1 Bourns Slider pot
 I also used 2 capacitors and 2 transistors
 ## Project showcase
+<img width="873" height="671" alt="Screenshot 2026-11-01 215204" src="https://github.com/user-attachments/assets/5fe384eb-bf7c-4def-b0cb-6b3df004e05a" />
+<img width="1557" height="817" alt="Screenshot 2026-11-01 220945" src="https://github.com/user-attachments/assets/919dffcc-abdf-413d-8dff-02feac3f0a37" />
+These are the images of the projects schematic and  pcb respectively.
+
+Using JLCPCB for the PCB and aliexpress for the other components.
