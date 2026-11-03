@@ -1,0 +1,13 @@
+Ref,Part,What it's for,Qty,Unit $,Total $,Vendor,Link
+U1,Raspberry Pi Pico (official RP2040),Microcontroller - reads keys and slider and drives the screen,1,3.89,3.89,AliExpress,https://www.aliexpress.us/item/3256805848916791.html
+DS3,2.8in ILI9341 240x320 SPI TFT with touch,Display + touchscreen,1,6.91,6.91,AliExpress,https://www.aliexpress.us/item/3256805915058256.html
+SW1-SW6,Outemu MX-compatible switches 3-pin (10 pcs),The 6 keys (4 spare) - fits the Cherry MX footprint,1,3.13,3.13,AliExpress,https://www.aliexpress.com/item/1005002378701948.html
+RV1,60mm slide potentiometer B10K single 3-pin 45mm travel (5 pcs),45mm slider input (price estimated),1,3.50,3.50,AliExpress,https://www.aliexpress.us/item/3256804696664282.html
+-,Clear 1U R4 keycaps (10 pcs),Keycaps for the 6 switches,1,4.31,4.31,AliExpress,https://www.aliexpress.us/item/3256809497672264.html
+D1-D6,1N4148 DO-35 diodes (100 pcs),Key diodes (passives - can be lumped into one form entry),1,2.82,2.82,AliExpress,https://www.aliexpress.us/item/3256806852080302.html
+Q1,AO3401A P-MOSFET SOT-23 (100 pcs),Backlight/power switching (passives - lump),1,1.87,1.87,AliExpress,https://www.aliexpress.us/item/2255801091791236.html
+R1 R2,0805 resistors 10k + 100R (100 pcs of each),Resistors - check R1 value in schematic (passives - lump; price estimated),2,1.00,2.00,AliExpress,https://www.aliexpress.us/w/wholesale-resistor-smd-10k-0805.html
+C1 C2,0805 capacitors 10uF + 100nF (100 pcs of each),Filtering/decoupling (passives - lump; price estimated),2,1.00,2.00,AliExpress,https://www.aliexpress.com/w/wholesale-100nf-capacitor.html
+PCB,Custom 2-layer PCB under 100x100mm (5 pcs),Main board everything solders to,1,2.00,2.00,JLCPCB,https://jlcpcb.com
+-,Tax & shipping,AliExpress shipping (estimate); JLCPCB shipping already covered in the MIDI keyboard BOM (same order),,,3.00,,
+,TOTAL,,,,35.43,,
