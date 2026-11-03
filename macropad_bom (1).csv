@@ -1,0 +1,15 @@
+Ref,Part,What it's for,Qty,Unit $,Total $,Vendor,Link,Variant
+U1,Official Raspberry Pi Pico RP2040,Microcontroller - reads keys and slider and drives the screen,1,1.09,1.09,AliExpress (Choice),https://www.aliexpress.us/item/3256805848916791.html,Pico
+DS3,2.8in ILI9341 240x320 SPI TFT touch module (Estardyn),Display + touchscreen,1,6.15,6.15,AliExpress (Choice),https://www.aliexpress.us/item/3256806852062437.html,2.8 Inch Touch Panel
+SW1-SW6,Outemu MX-compatible switches (10 pcs),The 6 keys - fits the Cherry MX footprint,1,2.75,2.75,AliExpress (Choice),https://www.aliexpress.us/item/3256802192387196.html,Dust-Proof Green / 10PCS
+RV1,SC4521N 60mm slide potentiometer B10K 45mm travel 3-pin,Slider input,1,1.63,1.63,AliExpress (Choice),https://www.aliexpress.us/item/3256810149786178.html,1PCS B10K
+-,Clear 1U R4 keycaps (10 pcs),Keycaps for the 6 switches,1,4.01,4.01,AliExpress (Choice),https://www.aliexpress.us/item/3256809497672264.html,R4 1U-10pcs
+D1-D6,1N4148 DO-35 diodes (50 pcs),Key diodes (passives),1,1.59,1.59,AliExpress (Choice),https://www.aliexpress.us/item/3256806852080302.html,50pcs
+Q1,AO3401A P-MOSFET SOT-23 (100 pcs),Backlight/power switching (passives),1,1.87,1.87,AliExpress (Choice),https://www.aliexpress.us/item/2255801091791236.html,AO3401A
+R1,0805 1% resistor 10R (100 pcs),Resistor (passives),1,2.67,2.67,AliExpress (Choice),https://www.aliexpress.us/item/3256802197726026.html,100pcs 10 Ohm
+R2,0805 1% resistor 100R (100 pcs),Resistor (passives),1,2.67,2.67,AliExpress (Choice),https://www.aliexpress.us/item/3256802197726026.html,100pcs 100 Ohm
+C1,0805 ceramic capacitor 10uF (100 pcs),Filtering (passives),1,2.10,2.10,AliExpress (Choice),https://www.aliexpress.us/item/2251832716998559.html,10uF
+C2,0805 ceramic capacitor 100nF (100 pcs),Decoupling (passives),1,1.09,1.09,AliExpress (Choice),https://www.aliexpress.us/item/2251832716998559.html,100nF
+PCB,Custom 2-layer PCB under 100x100mm (5 pcs),Main board,1,2.00,2.00,JLCPCB,https://jlcpcb.com,
+-,Tax & shipping,AliExpress Choice free shipping; JLCPCB shipping covered in the MIDI keyboard BOM,,,0.00,,,
+,TOTAL,,,,29.62,,,
